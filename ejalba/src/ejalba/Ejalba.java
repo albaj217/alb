@@ -16,6 +16,7 @@ public class Ejalba {
      */
     public static void main(String[] args) {
         System.out.println("ver 1");
+        System.out.println("ver 2");
     }
     
 }
